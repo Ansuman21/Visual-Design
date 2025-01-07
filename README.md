@@ -8,7 +8,7 @@
 4. Reveal patterns and trends that might influence healthcare policies and strategies.
 5. Support data-driven decisions for policymakers, healthcare strategists, and stakeholders.
 
-### Dashboard:
+### Dashboard: https://public.tableau.com/app/profile/ansuman.patnaik/viz/Group_5_FinalHealthcareDashboard/FinalDashboard
 <img width="1512" alt="Screenshot 2025-01-06 at 8 10 09 PM" src="https://github.com/user-attachments/assets/13575457-2a4b-4ce1-8960-505de47bb556" />
 
 ### Dataset:
