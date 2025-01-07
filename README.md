@@ -10,3 +10,8 @@
 
 ### Dataset:
 https://health.data.ny.gov/Health/Health-Facility-General-Information/vn5v-hh5r/about_data
+
+### Dashboard:
+<img width="1512" alt="Screenshot 2025-01-06 at 8 10 09 PM" src="https://github.com/user-attachments/assets/13575457-2a4b-4ce1-8960-505de47bb556" />
+
+
